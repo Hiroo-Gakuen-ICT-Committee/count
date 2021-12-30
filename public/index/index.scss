@@ -1,0 +1,37 @@
+body{
+  background-color: #000;
+  font-family: cy,
+  sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  h1{
+    text-align: center;
+    color: #fff;
+    font-size: 4vw;
+    margin-top: 13vh;
+  }
+  #time{
+    color: #FFF;
+    text-align: center;
+    margin-top: 5vw;
+    #days{
+      font-size: 15vw;
+    }
+    #days_small{
+      font-size: 1vw;
+      margin-right: 3vw;
+    }
+    #hours{
+      font-size: 15vw;
+    }
+    #min {
+      font-size: 15vw;
+    }
+    #sec {
+      font-size: 15vw;
+    }
+    .aida{
+      font-size: 15vw;
+    }
+  }
+}
