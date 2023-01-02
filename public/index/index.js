@@ -1,4 +1,4 @@
-const goal = new Date("2022-10-1 9:00:00");
+const goal = new Date("2023-10-7 10:00:00");
 let count;
 
 function countDown(goal) {
